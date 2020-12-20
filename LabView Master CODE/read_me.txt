@@ -7,3 +7,4 @@ the subvi are:
     msg read from ARDUINO.vi
     OPEN AND CONFIGURE.vi
     
+the file PRODUCTOR AND CONSUMER.vi is for test
